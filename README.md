@@ -24,6 +24,6 @@ host
 Através do host aonde o amsible está instalado, realizar um teste de conexão com host destino:
 
 ```
-ansible all -m ping -u remote_user
+ansible all -m ping -u usuário_do_destino
 ```
 
