@@ -4,6 +4,7 @@ Algumas dicas e scripts para aplicação do ansible na automatização de um hos
 
 Para início, esta será a estrutura para um host:
 
+```
 host
 ├── files
 │   ├── readme
@@ -12,3 +13,4 @@ host
 │   └── default.yml
 ├── playbook.yml
 └── readme.md
+```
